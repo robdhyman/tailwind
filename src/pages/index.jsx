@@ -251,7 +251,7 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Spencer Sharpies - Software designer, founder, and amateur astronaut
+          Spencer Sharpies - Software designer-ino, founder-iddily-diddily, and amateur astronaut
         </title>
         <meta
           name="description"
